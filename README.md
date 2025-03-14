@@ -51,3 +51,14 @@ class nombreclase:
     - puedes definir tantos atributos como nesecites
     - puedes definir tantos metodos como nesecites
     - puedes definir tantos parametros en el constructor como nesecites
+
+## composicion
+
+- consiste en la creacion de nuevas clase aparti de otras clases ya exitentes que aptuan como elementos compositores de la nueva
+
+- las clases existentes  seran atributos de la nueva clase
+- en POO la composicion significa que entre dos clases existe una relacion del tipo "tiene un"
+
+- ejemplo:
+
+    - una coordenada en dos dimenciones esta compuesta por dos valores, el valor en el eje de las x y el valor en el eje de las y, esta podria ser una clase.un cuadrado esta compuesto por cuatro coordenadas que son los cuatros vertises, esto podria ser una clase que esta compuesta por cuatro clases del objeto coordenada
